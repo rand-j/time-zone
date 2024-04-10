@@ -713,6 +713,7 @@ padding-bottom: 10px;
 .footer-bottom{
     position: relative;
     top: 70px;
+    bottom:100px;
 }
 .footer-bottom .footer-bottom1 p{
 font-size: 18px;
@@ -723,6 +724,7 @@ font-size: 18px;
 .footer-bottom .footer-bottom2 i{
     font-size: 20px;
     margin:0 20px;
+    
 }
 @media screen and (min-width:576px) and (max-width:768px){
     .footer-bottom .footer-bottom1{
